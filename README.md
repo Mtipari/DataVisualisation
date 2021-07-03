@@ -1,3 +1,3 @@
-# Data Visualisation Projects
+# Data Visualisation Project
 
-1. Comic Books: By Men, For Men and About Men
+## Comic Books: By Men, For Men and About Men
