@@ -4,7 +4,7 @@ The project inspired from the article here: https://fivethirtyeight.com/features
 
 The dataset is present here: https://data.fivethirtyeight.com/ --> comic-characters
 
-Coding is done using R language.
+Coding is done using R language. Rmd file as well as md file of the code is uploaded.
 The code and walkthrough is present here: DataVisualistion/ComicBooks
 
 The report below is in a story-telling format starting with defining a persona and the questions, for which the data will help to find answers. 
